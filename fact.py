@@ -4,7 +4,7 @@ def fact(n):
 
 
 if __name__ == '__main__':
-	import sys
+    import sys
 	print(sys.argv)
 	if len(sys.argv) > 1:
-		print(fact(int(sys.argv[1])))
+	    print(fact(int(sys.argv[1])))
