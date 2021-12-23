@@ -4,8 +4,6 @@
 </head>
         
 <body>
-    <div>
-        <p>Batch No : 67</p>
-        <p>Nama : Fachrul K</p>
-    </div>
+      <a>Batch No : 67</a>
+      <a>Nama : Fachrul K</a>
 </body>
