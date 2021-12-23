@@ -3,7 +3,5 @@
     <h2>Program : Introduction to Python Data Science<h2>
 </head>
         
-<body>
-      <a>Batch No : 67</a>
-      <a>Nama : Fachrul K</a>
-</body>
+Batch No : 67<br>
+Nama : Fachrul K<br>
