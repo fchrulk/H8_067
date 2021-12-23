@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Wine Classification</title>
+
+</head>
+<body>
+
+    <div class="form">
+        <h1>Final Project by Fachrul K</h1>
+        <h4>Red Wine Classification</h4>
+
+        <form action="{{ url_for('get_wine_quality') }}" method="post">
+            <p>Fixed Acidity</p>
+            <input type="number" name="fixed_acidity" placeholder="Fixed Acidity" required="required" />
+            <br>
+            <p>Volatile Acidity</p>
+            <input type="number" name="volatile_acidity" placeholder="Volatile Acidity" required="required" />
+            <br>
+            <p>Citric Acid</p>
+            <input type="number" name="citric_acid" placeholder="Citric Acid" required="required" />
+            <br>
+            <p>Chlorides</p>
+            <input type="number" name="chlorides" placeholder="Chlorides" required="required" />
+            <br>
+            <p>Total Sulfur Dioxide</p>
+            <input type="number" name="total_sulfur_dioxide" placeholder="Total Sulfur Dioxide" required="required" />
+            <br>
+            <p>Density</p>
+            <input type="number" name="density" placeholder="Density" required="required" />
+            <br>
+            <p>Sulphates</p>
+            <input type="number" name="sulphates" placeholder="Sulphates" required="required" />
+            <br>
+            <p>Alcohol</p>
+            <input type="number" name="alcohol" placeholder="Alcohol" required="required" />
+            <br>
+            <br>
+            <button type="submit" class="btn btn-primary btn-block btn-large" style="background-color: #4CAF50;">Get Quality Score</button>
+        </form>
+    </div>
+
+</body>
+</html>
