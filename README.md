@@ -10,10 +10,10 @@ Nama &rarr; Fachrul K
 * [Wine Classification](https://red-wine-fchrulk.herokuapp.com/)
 * [Wine Statistics Information](https://red-wine-fchrulk.herokuapp.com/wine_stats)
 
+<p align="center">
+  <img width="460" height="300" src="https://c.tenor.com/ANpny5mUNncAAAAi/work-smart-play-hard.gif">
+</p>
 
 #### Feel Free to Discuss :relieved:
 :coffee: LinkedIn&ensp;: [Fachrul Kurniansyah](https://www.linkedin.com/in/fchrulk)<br>
 :e-mail: Email&ensp;&ensp;&ensp;&ensp;: fachrul.kurniansyah@gmail.com
-
-
-![alt text](https://c.tenor.com/ANpny5mUNncAAAAi/work-smart-play-hard.gif)
