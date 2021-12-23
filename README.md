@@ -1,4 +1,4 @@
-## Program : Introduction to Python Data Science
+## Program : Introduction to Python Data Science by Hacktiv8
         
 Batch No &rarr; 67<br>
 Nama &rarr; Fachrul K
@@ -14,3 +14,6 @@ Nama &rarr; Fachrul K
 #### Feel Free to Discuss :relieved:
 :coffee: LinkedIn&ensp;: [Fachrul Kurniansyah](https://www.linkedin.com/in/fchrulk)<br>
 :e-mail: Email&ensp;&ensp;&ensp;&ensp;: fachrul.kurniansyah@gmail.com
+
+
+![alt text](https://c.tenor.com/ANpny5mUNncAAAAi/work-smart-play-hard.gif)
