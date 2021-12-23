@@ -1,7 +1,4 @@
-<html lang="en" data-color-mode="dark" data-light-theme="light" data-dark-theme="dark">
-<head>
-    <h2>Program : Introduction to Python Data Science<h2>
-</head>
+## Program : Introduction to Python Data Science
         
-Batch No : 67<br>
-Nama : Fachrul K<br>
+Batch No : 67
+Nama : Fachrul K
